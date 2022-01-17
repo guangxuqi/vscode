@@ -1,0 +1,38 @@
+ssh qigx@jumpbox.ifeng.com
+
+C:\oracle\product\10.2.0\client_1\bin
+
+0
+
+suprod
+
+cd /data1/sync
+
+use cdm
+use ads
+
+直接编辑脚本？ Git
+
+
+天行节假日API KEY
+2a3aa88db3ff9a12a764cbf6f9a785bf
+
+
+统计系统客户端部分的维度，以及数仓的计算逻辑吧
+
+
+sqlplus username/passwrod@服务器IP:ORACLE端口号/数据库服务名
+
+'app','zqppa2017y08g07m','10.90.19.1:1521/orcl'
+
+sqlplus 'app/zqppa2017y08g07m@10.90.19.1:1521/orcl'
+
+
+Oracle Database 11g Enterprise Edition Release 11.2.0.1.0
+
+LD_LIBRARY_PATH=/usr/lib/oracle/11.2/client64/lib:${LD_LIBRARY_PATH}
+export LD_LIBRARY_PATH
+export PATH=/usr/lib/oracle/11.2/client64/lib:$PATH
+
+
+oracle-instantclient11.2-basic-11.2.0.1.0-1.x86_64.rpm
